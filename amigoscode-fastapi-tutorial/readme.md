@@ -1,3 +1,5 @@
+### learnings
+
 - `pip install fastapi "uvicorn[standard]"`
 
 - `uvicorn main:app --reload` to launch [main.py](http://main.py) file
